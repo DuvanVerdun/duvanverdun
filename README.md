@@ -1,16 +1,13 @@
-## Hi there 👋
+## Duvan Verdun
 
-<!--
-**DuvanVerdun/duvanverdun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building software with a focus on execution and clarity.
 
-Here are some ideas to get you started:
+### Current Focus
+- Python (OOP)
+- Building real projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+
+### Philosophy
+- Learn -> Build -> Improve -> Repeat
