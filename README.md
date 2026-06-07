@@ -1,13 +1,22 @@
-## Duvan Verdun
+# Duvan Verdun
 
-Building software with a focus on execution and clarity.
+Software builder with focus on products.
 
-### Current Focus
-- Python (OOP)
-- Building real projects
+I build tools that help people execute, improve, and stay consistent.
 
-### Projects
+## Current Focus
+- Product Engineering
+- Python & TypeScript
+- Building and shipping real products
+- ExecutionOS
 
+## Projects
+### ExecutionOS
+A personal execution system designed to help users focus, track deep work, and build consistency.
 
-### Philosophy
-- Learn -> Build -> Improve -> Repeat
+## Philosophy
+Build -> Learn -> Iterate -> Ship
+
+Focus on outcomes over tools.
+Learn by building.
+Consistency compounds.
